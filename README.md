@@ -23,8 +23,8 @@
 
 ## Project
 **코스피의 등락 시계열 예측**
-깃허브 주소 : https://github.com/hr1588/kospi_project
-개발 언어 : python/ pandas, numpy, arima, matplotlib / KNIME
+- 깃허브 주소 : https://github.com/hr1588/kospi_project
+- 개발 언어 : python/ pandas, numpy, arima, matplotlib / KNIME
 - 교수님 지도 하에 python, knime를 활용해 코스피 등락 예측 모형 제작
 - finance data reader 사용하여 코스피 종가 데이터 추출
 - pcf/pacf를 통해 정상성 확인 후 log/diff 실시
