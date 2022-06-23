@@ -2,7 +2,7 @@
 - 이메일 : hr1588@naver.com
 - 깃허브 : https://github.com/hr1588
 
-![](https://github.com/yonsei-app-dev-club/yonsei-app-dev-club-2022/raw/main/github-metrics-serithemage.svg)
+![](https://github.com/hr1588/hr1588/raw/main/github-metrics-serithemage.svg)
 
 ## Summary
 - 게임 회사의 데이터 분석팀을 목표로 하고 있습니다.
