@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
 <img src="https://img.shields.io/badge/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/HTML-33FF33?style=for-the-badge&logo=oracle&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-FFFF00?style=for-the-badge&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-009999?style=for-the-badge&logo=oracle&logoColor=white">
 
 ## 앞으로 준비하는 것
 - MLops 스터디
