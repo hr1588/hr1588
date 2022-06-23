@@ -2,7 +2,7 @@
 - 이메일 : hr1588@naver.com
 - 깃허브 : https://github.com/hr1588
 
-![](https://github.com/hr1588/hr1588/raw/main/github-metrics-serithemage.svg)
+![Metrics][image-1]
 
 ## Summary
 - 게임 회사의 데이터 분석팀을 목표로 하고 있습니다.
@@ -33,6 +33,6 @@
 - auto-arima, arima 모형 제작 후 matplotlib를 통해 시각화
 - svm, rf, xgboost, logistic regression은 KNIME으로 제작
 
-
+[image-1]:	/github-metrics.svg
 
 
