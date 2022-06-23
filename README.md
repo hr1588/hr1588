@@ -14,8 +14,8 @@
 <img src="https://img.shields.io/badge/CSS-009999?style=for-the-badge&logo=oracle&logoColor=white">
 
 ## 앞으로 준비하는 것
-- MLops 스터디
-- 데이콘 KRX 경진대회
+- MLops 스터디(2022.06.25~)
+- 데이콘 KRX 경진대회(2022.06.27~)
 
 ## Education
 **동아대학교 경영정보학과**
