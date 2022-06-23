@@ -12,7 +12,8 @@
 <img src="https://img.shields.io/badge/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 
 ## 앞으로 준비하는 것
-- MLops 
+- MLops 스터디
+- 데이콘 KRX 경진대회
 
 ## Education
 **동아대학교 경영정보학과**
