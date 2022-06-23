@@ -32,4 +32,10 @@
 - auto-arima, arima 모형 제작 후 matplotlib를 통해 시각화
 - svm, rf, xgboost, logistic regression은 KNIME으로 제작
 
+**홈페이지 제작**
+- 주소 : https://hr1588.github.io/web_project/
+- 깃허브 주소 : 
+- 개발 언어 : html/css
+- 웹 프로그래밍 전공 수업 실습 파일
+
 
