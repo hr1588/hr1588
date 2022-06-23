@@ -6,7 +6,7 @@
 - 게임 회사의 데이터 분석팀을 목표로 하고 있습니다.
 
 ## Tech
-한번 이상 다뤘던 기술들  
+한번 이상 다뤘던 기술들<hr>
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
 <img src="https://img.shields.io/badge/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white">
