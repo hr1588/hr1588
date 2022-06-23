@@ -23,14 +23,14 @@
 - 빅데이터분석, 유통/판매 데이터분석, 연구학점, 빅데이터 시각화
 
 ## Project
-**코스피의 등락 시계열 예측**
+**코스피의 등락 시계열 예측모형 및 기계학습 모형**
 - 깃허브 주소 : https://github.com/hr1588/kospi_project
 - 개발 언어 : python/ pandas, numpy, arima, matplotlib / KNIME
 - 교수님 지도 하에 python, knime를 활용해 코스피 등락 예측 모형 제작
 - finance data reader 사용하여 코스피 종가 데이터 추출
 - pcf/pacf를 통해 정상성 확인 후 log/diff 실시
 - auto-arima, arima 모형 제작 후 matplotlib를 통해 시각화
-- svm, rf, xgboost, logistic regression은 KNIME으로 제작
+- svm, rf, xgboost, logistic regression 은 KNIME으로 제작
 
 **홈페이지 제작**
 - 주소 : https://hr1588.github.io/web_project/
