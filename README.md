@@ -15,7 +15,6 @@
 <img src="https://img.shields.io/badge/CSS-009999?style=for-the-badge&logo=oracle&logoColor=white">
 
 ## 앞으로 준비하는 것
-- MLops 스터디(2022.06.25~)
 - 데이콘 KRX 경진대회(2022.06.27~)
 - 게임 도메인 탐구 및 이해도 향상
 - 데이터 분석을 통한 인사이트 탐색
