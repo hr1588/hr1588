@@ -44,3 +44,5 @@
 - 깃허브 주소 : 
 - 개발 언어 : python
 - 주제 : 분산 투자 정보 제공 플랫폼 ' 크로와상 '
+- 데이콘 주소 : https://dacon.io/competitions/official/235914/codeshare/5528
+
