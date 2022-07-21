@@ -29,10 +29,7 @@
 - 깃허브 주소 : https://github.com/hr1588/kospi_project
 - 개발 언어 : python/ pandas, numpy, arima, matplotlib / KNIME
 - 교수님 지도 하에 python, knime를 활용해 코스피 등락 예측 모형 제작
-- finance data reader 사용하여 코스피 종가 데이터 추출
-- pcf/pacf를 통해 정상성 확인 후 log/diff 실시
-- auto-arima, arima 모형 제작 후 matplotlib를 통해 시각화
-- svm, rf, xgboost, logistic regression 은 KNIME으로 제작
+- svm, rf, xgboost, logistic regression 모델은 KNIME으로 제작
 
 **홈페이지 제작**
 - 주소 : https://hr1588.github.io/web_project/
@@ -42,7 +39,7 @@
 
 **제1회 KRX 금융 빅데이터 활용 아이디어 경진대회**
 - 깃허브 주소 : https://github.com/hr1588/dacon
-- 개발 언어 : python
+- 개발 언어 : python / 상관관계분석, 웹 크롤링 및 간단한 자연어 
 - 주제 : 분산 투자 정보 제공 플랫폼 ' 크로와상 '
 - 데이콘 주소 : https://dacon.io/competitions/official/235914/codeshare/5528
 
