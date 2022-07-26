@@ -44,7 +44,7 @@
 - 데이콘 주소 : https://dacon.io/competitions/official/235914/codeshare/5528
 
 **오늘의 파이썬**
-- https://dacon.io/competitions/open/235698/talkboard
+- https://dacon.io/competitions/open/235698/talkboard/403458?page=13&dtype=recent
 - 일일마다 진행
 
 
