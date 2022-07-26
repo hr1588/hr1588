@@ -43,3 +43,8 @@
 - 주제 : 분산 투자 정보 제공 플랫폼 ' 크로와상 '
 - 데이콘 주소 : https://dacon.io/competitions/official/235914/codeshare/5528
 
+**오늘의 파이썬**
+- https://dacon.io/competitions/open/235698/talkboard
+- 일일마다 진행
+
+
