@@ -15,7 +15,8 @@
 <img src="https://img.shields.io/badge/CSS-009999?style=for-the-badge&logo=oracle&logoColor=white">
 
 ## 앞으로 준비하는 것
-- 데이콘 KRX 경진대회(2022.06.27~)
+- 데이콘 KRX 경진대회(2022.06.27~2022.07.29)
+- 데이콘 팔당댐 홍수 안전운영에 따른 한강 수위예측 AI 경진대회 (2022.07.29~
 - 게임 도메인 탐구 및 이해도 향상
 - 데이터 분석을 통한 인사이트 탐색
 - Analytics on AWS
