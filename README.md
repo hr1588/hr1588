@@ -46,6 +46,6 @@
 
 **오늘의 파이썬**
 - https://dacon.io/competitions/open/235698/talkboard/403458?page=13&dtype=recent
-- 일일마다 진행
+- 일일마다 진행, 진행 과정에서 추가로 구글링 등을 통해 제시된 모델보다 정교한 모델 
 
 
