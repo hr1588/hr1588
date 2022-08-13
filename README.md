@@ -30,19 +30,12 @@
 - 교수님 지도 하에 python, knime를 활용해 코스피 등락 예측 모형 제작
 - svm, rf, xgboost, logistic regression 모델은 KNIME으로 제작
 
-**제1회 KRX 금융 빅데이터 활용 아이디어 경진대회**
+**데이콘 저장소**
 - 깃허브 주소 : https://github.com/hr1588/dacon
-- 개발 언어 : python / 상관관계분석, 웹 크롤링 및 간단한 자연어 처리
-- 주제 : 분산 투자 정보 제공 플랫폼 ' 크로와상 '
-- 데이콘 주소 : https://dacon.io/competitions/official/235914/codeshare/5528
-
-**오늘의 파이썬**
-- https://dacon.io/competitions/open/235698/talkboard/403458?page=13&dtype=recent
-- 일일마다 진행, 진행 과정에서 추가로 구글링 등을 통해 제시된 모델보다 정교한 모델 
-
-**팔당댐 홍수 안전운영에 따른 한강 수위예측 AI 경진대회**
 - 개발 언어 : python
-- 어떤 머신러닝 알고리즘을 어떻게 활용할지 탐구
+- 다양한 경진 대회 및 코드 리뷰를 통한 실력 향상
+
+
 
 
 
