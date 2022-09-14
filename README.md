@@ -13,7 +13,6 @@
 <img src="https://img.shields.io/badge/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 
 ## 앞으로 준비하는 것
-- 데이콘 KRX 경진대회(2022.06.27~2022.07.29)
 - 게임 데이터 관련 학사 논문 작성
 - 데이터 분석을 통한 인사이트 탐색
 - Analytics on AWS
