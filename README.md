@@ -1,5 +1,5 @@
 # 이동현
-- 이메일 : hr1588@naver.com
+- 이메일 : johntlsk11@gmail.com
 - 깃허브 : https://github.com/hr1588
 
 
