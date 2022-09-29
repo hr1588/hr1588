@@ -13,14 +13,15 @@
 <img src="https://img.shields.io/badge/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 
 ## 앞으로 준비하는 것
-- 게임 데이터 관련 학사 논문 작성
-- 데이터 분석을 통한 인사이트 탐색
-- Analytics on AWS
-- 전공수업 기록
+- Natural Language Processing
+- Computer Vision
+- User Modeling
+- python을 활용한 데이터 분석 능력
+- 내/외부 구성원 설득을 위한 문서 및 자료 정리와 시각자료 작성 및 도식화 능력
 
 ## Education
 **동아대학교 경영정보학과**
-- 빅데이터분석, 유통/판매 데이터분석, 연구학점, 빅데이터 시각화, 머신러닝, 소비자 데이터 분석
+- 전공 과목 : 빅데이터분석, 유통/판매 데이터분석, 연구학점, 빅데이터 시각화, 머신러닝, 소비자 데이터 분석
 - Adsp, 컴활 1급 취득 완료
 
 ## Project
