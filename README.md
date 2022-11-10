@@ -35,7 +35,6 @@
 - 개발 언어 : python
 - 다양한 경진 대회 및 코드 리뷰를 통한 실력 향상
 
-
-
+![Metrics](/github-metrics.svg)
 
 
