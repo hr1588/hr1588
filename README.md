@@ -35,7 +35,6 @@
 - 개발 언어 : python
 - 다양한 경진 대회 및 코드 리뷰를 통한 실력 향상
 
-![이동현](https://github.com/hr1588) - 데이터 분석가 지망
-![https://github.com/hr1588](https://github.com/hr1588/hr1588/blob/main/github-metrics.svg)
+
 
 
