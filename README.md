@@ -43,6 +43,7 @@
 - 트위터 등 소셜 네트워크 활용
 
 **지식 그래프**
+- 깃허브 주소 : https://github.com/hr1588/Knowledge-Graph
 - 개발 언어 : python
 - 도전학기제 주제, 계속 extension 진행
 - 한국어 지식그래프 활용 논문 주제 탐색 중
