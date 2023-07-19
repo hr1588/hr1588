@@ -13,8 +13,7 @@
 <img src="https://img.shields.io/badge/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 
 ## 앞으로 준비하는 것
-- python을 활용한 데이터 분석 능력
-- 내/외부 구성원 설득을 위한 문서 및 자료 정리와 시각자료 작성 및 도식화 능력
+- python, no-code-ml을 활용한 데이터 분석 능력
 - 머신러닝, 딥러닝 활용 모델링
 - SQL을 활용한 ETL 연습
 - BEPT와 GPT를 활용한 자연어 처리
