@@ -26,20 +26,19 @@
 
 ## Project
 **학부 연구생**
-- 깃허브 주소 : https://github.com/hr1588/kospi_project
+- 깃허브 주소 : https://github.com/hr1588/Lab_study
 - 개발 언어 : python, KNIME
-- 학부 연구생 관련 내용 기록
-
-**데이콘 저장소**
-- 깃허브 주소 : https://github.com/hr1588/dacon
-- 개발 언어 : python
-- 다양한 경진 대회 및 코드 리뷰를 통한 실력 향상
+- 네트워크 분석, 딥러닝/자연어 처리 기초, dacon 경진대회 기록
 
 **지식 그래프**
 - 깃허브 주소 : https://github.com/hr1588/Knowledge-Graph
 - 개발 언어 : python
 - 도전학기제 주제, 계속 extension 진행
 - 한국어 지식그래프 활용 논문 주제 탐색 중
+
+**pytorch**
+- 깃허브 주소 : https://github.com/hr1588/pytorch
+- notion에 study 내용 기록
 
 
 
