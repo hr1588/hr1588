@@ -25,22 +25,15 @@
 - Adsp, 컴활 1급, 빅데이터 분석기사 취득 완료
 
 ## Project
-**코스피의 등락 시계열 예측모형 및 기계학습 모형**
+**학부 연구생**
 - 깃허브 주소 : https://github.com/hr1588/kospi_project
-- 개발 언어 : python/ pandas, numpy, arima, matplotlib / KNIME
-- 교수님 지도 하에 python, knime를 활용해 코스피 등락 예측 모형 제작
-- svm, rf, xgboost, logistic regression 모델은 KNIME으로 제작
+- 개발 언어 : python, KNIME
+- 학부 연구생 관련 내용 기록
 
 **데이콘 저장소**
 - 깃허브 주소 : https://github.com/hr1588/dacon
 - 개발 언어 : python
 - 다양한 경진 대회 및 코드 리뷰를 통한 실력 향상
-
-**네트워크 분석**
-- 깃허브 주소 : https://github.com/hr1588/network
-- 개발 언어 : python
-- 다양한 네트워크 간의 관계 탐색 및 시각화
-- 트위터 등 소셜 네트워크 활용
 
 **지식 그래프**
 - 깃허브 주소 : https://github.com/hr1588/Knowledge-Graph
