@@ -23,11 +23,15 @@
 - 연구학점제 및 도전학기제로 study 및 project 진행
 - Adsp, 컴활 1급, 빅데이터 분석기사 취득 완료
 
+**지식광장 네트워크**
+- 2023 산업맞춤형 혁신 바우처 지원 사업 참여 : Digital Transformation 교육 조교 역할 수행
+
 ## Project
 **학부 연구생**
 - 깃허브 주소 : https://github.com/hr1588/Lab_study
 - 개발 언어 : python, KNIME
 - 네트워크 분석, 딥러닝/자연어 처리 기초, dacon 경진대회 기록
+- 현재 리뷰를 위한 블로깅 진행하면서 부족했던 부분 보완 중
 
 **지식 그래프**
 - 깃허브 주소 : https://github.com/hr1588/Knowledge-Graph
@@ -37,7 +41,6 @@
 
 **pytorch**
 - 깃허브 주소 : https://github.com/hr1588/pytorch
-- notion에 study 내용 기록
 
 
 
