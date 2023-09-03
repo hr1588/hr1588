@@ -1,46 +1,28 @@
-# 이동현
-- 이메일 : johntlsk11@gmail.com
-- 깃허브 : https://github.com/hr1588
 
+### 안녕하세요 :)
 
-## Summary
-- 데이터 분석가를 목표로 하고 있습니다.
+### Interest   
+     - python, no-code-ml을 활용한 Data Anlaysis
+     - ML/DL을 활용한 타겟 분석
+     - Natural Language Processing
 
-## Tech
-한번 이상 다뤘던 기술들<br>
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+### github stats  
 
-## 앞으로 준비하는 것
-- python, no-code-ml을 활용한 데이터 분석 능력
-- 머신러닝, 딥러닝 활용 모델링
-- SQL을 활용한 ETL 연습
-- BEPT와 GPT를 활용한 자연어 처리
+<div id="main" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=hr1588&count_private=true&show_icons=true&theme=radical"
+        style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+<!--         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hr1588&layout=compact"   
+        style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>  -->
+</div>
 
-## Education
-**동아대학교 경영정보학과**
-- 연구학점제 및 도전학기제로 study 및 project 진행
-- Adsp, 컴활 1급, 빅데이터 분석기사 취득 완료
+### About Me  
+<p align="center">
+    <a href="https://hr1588.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
+    <a href="mailto:gaiqclass@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=qpyu66@gmail.com"/></a>
+</p>
 
-**지식광장 네트워크**
-- 2023 산업맞춤형 혁신 바우처 지원 사업 참여 : Digital Transformation 교육 조교 역할 수행
+<br>
 
-## Project
-**학부 연구생**
-- 깃허브 주소 : https://github.com/hr1588/Lab_study
-- 개발 언어 : python, KNIME
-- 네트워크 분석, 딥러닝/자연어 처리 기초, dacon 경진대회 기록
-- 현재 리뷰를 위한 블로깅 진행하면서 부족했던 부분 보완 중
+### 📕 Latest Blog Posts   
 
-**지식 그래프**
-- 깃허브 주소 : https://github.com/hr1588/Knowledge-Graph
-- 개발 언어 : python
-- 도전학기제 주제, 계속 extension 진행
-- 한국어 지식그래프 활용 논문 주제 탐색 중
-
-**pytorch**
-- 깃허브 주소 : https://github.com/hr1588/pytorch
-
-
-
+<a href ="https://hr1588.tistory.com/24"> [8주차] 기계학습을 활용한 주식 데이터 분석 </a> <br><a href ="https://hr1588.tistory.com/23"> [10일차] python&sql </a> <br><a href ="https://hr1588.tistory.com/22"> [9일차] python&sql </a> <br><a href ="https://hr1588.tistory.com/21"> [8일차] python&sql </a> <br><a href ="https://hr1588.tistory.com/20"> [7일차] python&sql </a> <br><a href ="https://hr1588.tistory.com/19"> [시계열 분석] 시계열의 의미와 요인 </a> <br><a href ="https://hr1588.tistory.com/18"> [6일차] python&sql </a> <br><a href ="https://hr1588.tistory.com/17"> [5일차] python&sql </a> <br><a href ="https://hr1588.tistory.com/16"> [4일차] python&sql </a> <br><a href ="https://hr1588.tistory.com/14"> [3일차] python&sql </a> <br><a href ="https://hr1588.tistory.com/13"> [2일차] python&sql </a> <br><a href ="https://hr1588.tistory.com/12"> [1일차] python&sql </a> <br><a href ="https://hr1588.tistory.com/10"> [시계열 분석] 가설과 검증방법 </a> <br><a href ="https://hr1588.tistory.com/9"> [5주차] 기계학습을 활용한 주식 데이터 분석 </a> <br><a href ="https://hr1588.tistory.com/8"> [4주차] 기계학습을 활용한 주식 데이터 분석 </a> <br><a href ="https://hr1588.tistory.com/7"> [3주차] 기계학습을 활용한 주식 데이터 분석 </a> <br><a href ="https://hr1588.tistory.com/6"> [2주차] 기계학습을 활용한 주식 데이터 분석 </a> <br><a href ="https://hr1588.tistory.com/5"> [1주차] 기계학습을 활용한 주식 데이터 분석 </a> <br><a href ="https://hr1588.tistory.com/4"> [MySQL] 기초적인 문법, 용어 정리 </a> <br><a href ="https://hr1588.tistory.com/3"> 리눅스 명령어 정리 </a> <br>
