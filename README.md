@@ -25,4 +25,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://hr1588.tistory.com/24"> [8주차] 기계학습을 활용한 주식 데이터 분석 </a> <br>
+<a href ="https://hr1588.tistory.com/23"> [10일차] python&sql </a> <br>
