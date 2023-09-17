@@ -25,4 +25,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://hr1588.tistory.com/23"> [10일차] python&sql </a> <br>
+<a href ="https://hr1588.tistory.com/28"> [KNIME] 설치방법 </a> <br>
