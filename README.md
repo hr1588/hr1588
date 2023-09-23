@@ -25,4 +25,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://hr1588.tistory.com/30"> [KNIME] python 설정 </a> <br>
+<a href ="https://hr1588.tistory.com/33"> [Pytorch] CUDA 설치 </a> <br>
