@@ -25,4 +25,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://hr1588.tistory.com/33"> [Pytorch] CUDA 설치 </a> <br>
+<a href ="https://hr1588.tistory.com/34"> [Dacon] 뉴스 기사 레이블 복구 해커톤 </a> <br>
