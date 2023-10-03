@@ -25,4 +25,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://hr1588.tistory.com/35"> [Dnf] API 호출 및 원인 분석 </a> <br>
+<a href ="https://hr1588.tistory.com/36"> [NLP] LLM Benchmark </a> <br>
