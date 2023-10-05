@@ -25,4 +25,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://hr1588.tistory.com/36"> [NLP] LLM Benchmark </a> <br>
+<a href ="https://hr1588.tistory.com/37"> [Dnf] 유저 성장분석 </a> <br>
