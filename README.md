@@ -2,8 +2,8 @@
 ### 안녕하세요 :)
 
 ### Interest   
-     - python, KNIME을 활용한 Data Anlaysis
-     - 선행연구 기반 ML/DL을 활용한 타겟 분석
+     - python, no-code-ml을 활용한 Data Anlaysis
+     - ML/DL을 활용한 타겟 분석
      - Natural Language Processing
 
 ### github stats  
