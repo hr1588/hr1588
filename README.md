@@ -25,4 +25,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://hr1588.tistory.com/39"> [Regression] 손실 함수와 성능 척도 </a> <br>
+<a href ="https://hr1588.tistory.com/41"> [Dnf] 유저 성장분석 </a> <br>
