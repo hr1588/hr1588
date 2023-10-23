@@ -25,4 +25,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://hr1588.tistory.com/37"> [Dnf] 경매장 시세 분석 </a> <br>
+<a href ="https://hr1588.tistory.com/42"> [Linux] 명령어 정리 v2 </a> <br>
