@@ -25,4 +25,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://hr1588.tistory.com/45"> [Dnf] 10월 유저 성장분석 </a> <br>
+<a href ="https://hr1588.tistory.com/46"> [오뚜기] 주식 등락 기사 분석 </a> <br>
