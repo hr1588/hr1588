@@ -25,4 +25,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://hr1588.tistory.com/46"> [오뚜기] 주식 등락 기사 분석 </a> <br>
+<a href ="https://hr1588.tistory.com/47"> [PostgreSQL] 하나의 값 조작하기 </a> <br>
