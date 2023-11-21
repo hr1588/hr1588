@@ -25,4 +25,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://hr1588.tistory.com/48"> [PostgreSQL] 여러 개의 값에 대한 조작 - 1 </a> <br>
+<a href ="https://hr1588.tistory.com/49"> [PostgreSQL] 여러 개의 값에 대한 조작 - 2 </a> <br>
