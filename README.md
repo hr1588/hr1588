@@ -25,4 +25,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://hr1588.tistory.com/52"> [리뷰] 네이버 플레이스 카츠 </a> <br>
+<a href ="https://hr1588.tistory.com/53"> [리뷰] 네이버 플레이스 카츠 - RFM </a> <br>
