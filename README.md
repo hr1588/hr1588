@@ -25,4 +25,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://hr1588.tistory.com/entry/PostgreSQL-%EC%8B%9C%EA%B3%84%EC%97%B4-%EA%B8%B0%EB%B0%98%EC%9C%BC%EB%A1%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A7%91%EA%B3%84%ED%95%98%EA%B8%B0"> [PostgreSQL] 시계열 기반으로 데이터 집계하기 </a> <br>
+<a href ="https://hr1588.tistory.com/entry/KNIME-PostgreSQL-%EC%97%B0%EA%B2%B0"> [KNIME] PostgreSQL 연결 </a> <br>
