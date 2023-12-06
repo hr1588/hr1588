@@ -25,4 +25,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://hr1588.tistory.com/entry/KNIME-PostgreSQL-%EC%97%B0%EA%B2%B0"> [KNIME] PostgreSQL 연결 </a> <br>
+<a href ="https://hr1588.tistory.com/entry/F-2"> [PostgreSQL] 다면적인 축을 사용해 데이터 집약하기 </a> <br>
