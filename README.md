@@ -18,7 +18,7 @@
 ### About Me  
 <p align="center">
     <a href="https://hr1588.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
-    <a href="mailto:gaiqclass@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white/"/></a>
+    <a href="mailto:gaiqclass@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=qpyu66@gmail.com"/></a>
 </p>
 
 <br>
