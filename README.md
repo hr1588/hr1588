@@ -23,6 +23,17 @@
 
 <br>
 
+### Available Skills
+#### Language
+<div>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white">
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white">
+</div>
+
+
 ### 📕 Latest Blog Posts   
 
 <a href ="https://hr1588.tistory.com/entry/F-2"> [PostgreSQL] 다면적인 축을 사용해 데이터 집약하기 </a> <br>
