@@ -81,7 +81,7 @@
 - pos tagging, position embedding 기반 neural-network model 구축 시도
 - 명사와 명사를 결합하여 1차적인 관계 추출, 장학금 60만원 취득
 
-### 월간 데이콘 쇼츠 - 뉴스 기사 레이블 복구 해커톤
+### 월간 데이콘 쇼츠 - 뉴스 기사 레이블 복구 해커톤 (2023.09.22 ~ 2023.09.25)
 - 발표 자료 : [블로깅](https://hr1588.tistory.com/34), [깃허브](https://github.com/hr1588/pytorch/blob/main/%EB%89%B4%EC%8A%A4%20%EB%A0%88%EC%9D%B4%EB%B8%94%EB%A7%81/news_clustering.ipynb)
 - sentence_transformers 계열 모델 all-mpnet-base-v2 사용
 - LDA, Kmeans와 사전학습 모델을 조합
