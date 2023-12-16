@@ -1,4 +1,5 @@
 import feedparser, datetime
+from urllib.parse import quote
 
 tistory_uri="https://hr1588.tistory.com/" #Your blog address here
 feed = feedparser.parse(tistory_uri+"/rss")
@@ -138,7 +139,7 @@ f.close()
 - python 기초, 통계 및 기출문제 정리
 
 ### 30 Days of Pandas (2023.08.17 ~ 2023.08.26)
-- [블로깅](https://hr1588.tistory.com/category/30%20Days%20of%20Pandas?page=1)
+- quote([블로깅](https://hr1588.tistory.com/category/30%20Days%20of%20Pandas?page=1))
 - 개발 언어 : Python, SQL
 - 10일간 LeetCode의 30 Days of Pandas를 python과 sql로 리뷰
 
