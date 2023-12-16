@@ -37,16 +37,14 @@
 ## Projects
 
 ### 연구학점 I - 금융 데이터 선행연구 분석 (2022.03.09 ~ 2022.05.25)
-- <a href='https://hr1588.tistory.com/category/주식%20선행연구%20분석'>블로깅</a>
-- <a href='https://github.com/hr1588/Lab_study/tree/main/kospi_project'>깃허브</a>
-- "코스피 방향 예측을 위한 하이브리드 머신러닝 모델: 선행연구 분석
+- 발표 자료 : <a href='https://hr1588.tistory.com/category/주식%20선행연구%20분석'>블로깅</a>, <a href='https://github.com/hr1588/Lab_study/tree/main/kospi_project'>깃허브</a>
+- "코스피 방향 예측을 위한 하이브리드 머신러닝 모델" 선행연구 분석
 - 개발 언어 : KNIME, Python
 - 주식 도메인 및 ML 알고리즘, 시계열 분석 정리
 - KNIME과 Python으로 선행연구 방법론 구현
 
 ### 제1회 KRX 금융 빅데이터 활용 아이디어 경진대회 (2022.06.27 ~ 2022.07.29)
-- [코드 공유](https://dacon.io/codeshare/5528)
-- [블로깅](https://hr1588.tistory.com/29)
+- 발표 자료 : [블로깅](https://hr1588.tistory.com/29), [코드 공유](https://dacon.io/codeshare/5528)
 - 개인 투자자의 분산 투자를 위한 정보 제공 플랫폼 "크로와상" 기획
 - 개발 언어 : Python
 - 사용 데이터 : 네이버 금융 뉴스, 2021년 1분기 주식 일별 시세정보
@@ -54,22 +52,21 @@
 - 74팀 중 예선 7등으로 마무리
 
 ### 월간 데이콘 발화자의 감정인식 AI 경진대회 (2022.11.01 ~ 2022.12.12)
-- [코드 공유](https://dacon.io/competitions/official/236027/codeshare/7278?page=1&dtype=recent)
+- 발표 자료 : [코드 공유](https://dacon.io/competitions/official/236027/codeshare/7278?page=1&dtype=recent)
 - 개발 언어 : Python
 - 사용 데이터 : 영어 발화문
-- 상세 내용
-  - 주어진 대화에서 발화자의 감정을 파악할 수 있는 AI 모델 개발
-  - huggingface의 emoberta-large 모델 사용
-  - 259팀 중 private 17등으로 마무리
+- 주어진 대화에서 발화자의 감정을 파악할 수 있는 AI 모델 개발
+- huggingface의 emoberta-large 모델 사용
+- 259팀 중 private 17등으로 마무리
 
 ### 머신러닝 전공수업 - 이미지 미니 프로젝트 (2022.11.24 ~ 2022.12.08)
-- [깃허브](https://github.com/hr1588/Lab_study/blob/main/deep-learning/image_project/dh_ml_ffinal.ipynb)
+- 발표 자료 : [PPT](https://drive.google.com/drive/folders/1ZXzyzT19teBc-4LUT7htOvz0wla9eKnE?usp=drive_link), [깃허브](https://github.com/hr1588/Lab_study/blob/main/deep-learning/image_project/dh_ml_ffinal.ipynb)
 - 개발 언어 : Python
 - 사용 데이터 : AI HUB image data, cifar-10 dataset
 - 이미지의 10가지 class를 분류하는 프로젝트 진행, macro avg : 0.762로 마무리
 
 ### 월간 데이콘 신용카드 사용자 연체 예측 AI 경진대회(2023.01.02 ~ 2023.01.07)
-- [블로깅](https://hr1588.tistory.com/3)
+- 발표 자료 : [블로깅](https://hr1588.tistory.com/3)
 - 개발 언어 : KNIME, Python
 - KNIME으로 EDA 및 전처리 진행
 - catboost model은 Python 사용
@@ -116,7 +113,7 @@
 - 10일간 LeetCode의 30 Days of Pandas를 python과 sql로 리뷰
 
 ### 던전앤파이터 사용자 분석 (2023.09.29 ~ )
-- [블로깅](https://hr1588.tistory.com/category/게임 사용자 분석)
+- <a href='https://hr1588.tistory.com/category/게임 사용자 분석'>블로깅</a>
 - 개발 언어 : Python
 - 사용 데이터 : 네오플 Open API
 - 넥슨의 던전앤파이터 유저 행태 확인 
@@ -135,7 +132,7 @@
 - 상세 내용
 - 데이터 분석을 위한 SQL 레시피 리뷰
 - pgadmin 4 활용
-        
+  
 ### 네이버 플레이스 리뷰 분석 (2023.11.28 ~ 2023.11.30)
 - "<a href='https://hr1588.tistory.com/category/리뷰%20분석'>블로깅</a>"
 - 개발 언어 : Python, KNIME, PostgreSQL
@@ -143,4 +140,3 @@
 - Python으로 크롤링한 리뷰 데이터를 KNIME으로 전처리
 - 감성 분석, wordcloud로 결과 도식화
 - 리뷰에서 메뉴를 추출해 가상의 RFM 분석 진행
-- 
