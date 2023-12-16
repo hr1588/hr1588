@@ -84,11 +84,19 @@ f.close()
   - huggingface의 emoberta-large 모델 사용
   - 259팀 중 private 17등으로 마무리
 
-### 머신러닝 전공수업 - 이미지 미니 프로젝트
+### 머신러닝 전공수업 - 이미지 미니 프로젝트 (2022.11.24 ~ 2022.12.08)
 - [깃허브](https://github.com/hr1588/Lab_study/blob/main/deep-learning/image_project/dh_ml_ffinal.ipynb)
+- [발표 자료](https://drive.google.com/drive/folders/1ZXzyzT19teBc-4LUT7htOvz0wla9eKnE?usp=drive_link)
 - 개발 언어 : Python
 - 사용 데이터 : AI HUB image data, cifar-10 dataset
 - 이미지의 10가지 class를 분류하는 프로젝트 진행, macro avg : 0.762로 마무리
+
+### 월간 데이콘 신용카드 사용자 연체 예측 AI 경진대회(2023.01.02 ~ 2023.01.07)
+- [블로깅](https://hr1588.tistory.com/3)
+- 개발 언어 : KNIME, Python
+- 상세 내용
+  - KNIME으로 EDA 및 전처리 진행
+  - catboost model은 Python 사용
 
 ### 한국어 경제 지식그래프 구축 (2023.03.02 ~ 2023.06.09)
 - [깃허브](https://github.com/hr1588/Knowledge-Graph)
