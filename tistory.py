@@ -139,7 +139,7 @@ f.close()
 - python 기초, 통계 및 기출문제 정리
 
 ### 30 Days of Pandas (2023.08.17 ~ 2023.08.26)
-- quote([블로깅](https://hr1588.tistory.com/category/30%20Days%20of%20Pandas?page=1))
+- [블로깅](https://hr1588.tistory.com/category/30 Days of Pandas)
 - 개발 언어 : Python, SQL
 - 10일간 LeetCode의 30 Days of Pandas를 python과 sql로 리뷰
 
@@ -167,7 +167,7 @@ f.close()
   - pgadmin 4 활용
         
 ### 네이버 플레이스 리뷰 분석 (2023.11.28 ~ 2023.11.30)
-- [블로깅](https://hr1588.tistory.com/category/%EB%A6%AC%EB%B7%B0%20%EB%B6%84%EC%84%9D)
+- [블로깅](https://hr1588.tistory.com/category/리뷰 분석)
 - 개발 언어 : Python, KNIME, PostgreSQL
 - 사용 데이터 : 톤쇼우, 카와카츠 합정점, 최강금 돈까스 리뷰 
 - 상세 내용
