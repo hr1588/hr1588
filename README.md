@@ -34,12 +34,11 @@
 - ADsP (2022.09.23)
 - 컴퓨터 활용능력 1급 (2022.03.11)
 
-
 ## Projects
 
 ### 연구학점 I - 금융 데이터 선행연구 분석 (2022.03.09 ~ 2022.05.25)
-- "<a href='https://hr1588.tistory.com/category/주식%20선행연구%20분석'>블로깅</a>"
-- "<a href='https://github.com/hr1588/Lab_study/tree/main/kospi_project'>깃허브</a>"
+- <a href='https://hr1588.tistory.com/category/주식%20선행연구%20분석'>블로깅</a>
+- <a href='https://github.com/hr1588/Lab_study/tree/main/kospi_project'>깃허브</a>
 - "코스피 방향 예측을 위한 하이브리드 머신러닝 모델: 선행연구 분석
 - 개발 언어 : KNIME, Python
 - 주식 도메인 및 ML 알고리즘, 시계열 분석 정리
@@ -72,44 +71,39 @@
 ### 월간 데이콘 신용카드 사용자 연체 예측 AI 경진대회(2023.01.02 ~ 2023.01.07)
 - [블로깅](https://hr1588.tistory.com/3)
 - 개발 언어 : KNIME, Python
-- 상세 내용
-  - KNIME으로 EDA 및 전처리 진행
-  - catboost model은 Python 사용
+- KNIME으로 EDA 및 전처리 진행
+- catboost model은 Python 사용
 
 ### 한국어 경제 지식그래프 구축 (2023.03.02 ~ 2023.06.09)
 - [깃허브](https://github.com/hr1588/Knowledge-Graph)
 - 개발 언어 : Python
-- 상세 내용
-  - 네이버 경제 뉴스 크롤링으로 데이터 추출
-  - 한국어 사전학습 모델 kcbert-base로 Transfer Learning
-  - pos tagging, position embedding 기반 neural-network model 구축 시도
-  - 명사와 명사를 결합하여 1차적인 관계 추출, 장학금 60만원 취득
+- 네이버 경제 뉴스 크롤링으로 데이터 추출
+- 한국어 사전학습 모델 kcbert-base로 Transfer Learning
+- pos tagging, position embedding 기반 neural-network model 구축 시도
+- 명사와 명사를 결합하여 1차적인 관계 추출, 장학금 60만원 취득
 
 ### 2023 산업맞춤형 혁신바우처 사업 교육조교 (2023.05.01 ~ 2023.11.30)
 - 주식광장 지식광장네트워크 소속으로, 국도화학 주식회사에서 디지털 전환(DX) 교육 보조 수행
-- 상세 내용
-  - 데이터 분석 플랫폼 KNIME로 15주간 강의 보조 진행
-  - 교육 이후 4종의 검증 프로젝트 진행, Python과 KNIME으로 baseline 구축
-  - 국도화학 우수 사례로 선정
+- 데이터 분석 플랫폼 KNIME로 15주간 강의 보조 진행
+- 교육 이후 4종의 검증 프로젝트 진행, Python과 KNIME으로 baseline 구축
+- 국도화학 우수 사례로 선정
 
 ## Study
 
 ### 연구학점 II - 네트워크 분석 (2022.09.07 ~ 2022.11.02)
 - [발표 자료](https://drive.google.com/drive/folders/1oIIFphtni4uXda1EqaP6GzF1xEFph4Kq?usp=drive_link)
 - 개발 언어 : Python
-- 상세 내용
-  - 네트워크 분석 - 소셜 미디어에서 신경망까지 도서 리뷰
-  - 주차 별 세미나를 진행하며 다른 학부연구생과 함께 이론 발표
-  - networkx library로 연습문제 실습
+- 네트워크 분석 - 소셜 미디어에서 신경망까지 도서 리뷰
+- 주차 별 세미나를 진행하며 다른 학부연구생과 함께 이론 발표
+- networkx library로 연습문제 실습
 
 ### 연구학점 II - 자연어 처리 (2022.11.03 ~ 2023.02.20)
 - [깃허브](https://github.com/hr1588/Lab_study/tree/main/NLP)
 - 개발 언어 : Python
-- 상세 내용
-  - Do it! Bert와 GPT로 배우는 자연어 처리, 트랜스포머를 활용한 자연어 처리 도서 리뷰
-  - 주차 별 세미나를 진행하며 석사 연구원, 학부 연구생과 함께 진행
-  - ontonote-v5 data로 NER 실습
-  - huggingface pre-trained model의 Token type 개수를 확인하는 함수 제작
+- Do it! Bert와 GPT로 배우는 자연어 처리, 트랜스포머를 활용한 자연어 처리 도서 리뷰
+- 주차 별 세미나를 진행하며 석사 연구원, 학부 연구생과 함께 진행
+- ontonote-v5 data로 NER 실습
+- huggingface pre-trained model의 Token type 개수를 확인하는 함수 제작
 
 ### 빅데이터 분석기사 실습(2023.06.17 ~ 2023.06.23)
 - [깃허브](https://github.com/hr1588/Engineer-Big-Data-Analysis)
@@ -125,30 +119,28 @@
 - [블로깅](https://hr1588.tistory.com/category/게임 사용자 분석)
 - 개발 언어 : Python
 - 사용 데이터 : 네오플 Open API
-- 상세 내용
-  - 던전앤파이터의 명성, 유저 행태 확인 
-  - 게임 내부 동일한 가치가 있는 재화를 경매장 가격으로 비교 분석
+- 넥슨의 던전앤파이터 유저 행태 확인 
+- 게임 내부 동일한 가치가 있는 재화를 경매장 가격으로 비교 분석
 
 ### 오뚜기 기사 분석 (2023.11.12)
 - [블로깅](https://hr1588.tistory.com/46)
 - 개발 언어 : Python
 - 사용 데이터 : 2023년 오뚜기 주식 종가, 네이버 경제 뉴스 기사 
-- 상세 내용
-  - Z-score를 활용해서 종가의 극단값을 정의하고, 주가가 극단값일 때 해당 시점의 기사 내용을 분석 
-  - Bareun 형태소 분석기로 LDA, wordnet 제작
+- Z-score를 활용해서 종가의 극단값을 정의하고, 주가가 극단값일 때 해당 시점의 기사 내용을 분석 
+- Bareun 형태소 분석기로 LDA, wordnet 제작
 
 ### PostgreSQL (2023.11.13 ~ )
 - [블로깅](https://hr1588.tistory.com/category/SQL?page=2)
 - 개발 언어 : PostgreSQL
 - 상세 내용
-  - 데이터 분석을 위한 SQL 레시피 리뷰
-  - pgadmin 4 활용
+- 데이터 분석을 위한 SQL 레시피 리뷰
+- pgadmin 4 활용
         
 ### 네이버 플레이스 리뷰 분석 (2023.11.28 ~ 2023.11.30)
 - "<a href='https://hr1588.tistory.com/category/리뷰%20분석'>블로깅</a>"
 - 개발 언어 : Python, KNIME, PostgreSQL
 - 사용 데이터 : 톤쇼우, 카와카츠 합정점, 최강금 돈까스 리뷰 
-- 상세 내용
-  - Python으로 크롤링한 리뷰 데이터를 KNIME으로 전처리
-  - 감성 분석, wordcloud로 결과 도식화
-  - 리뷰에서 메뉴를 추출해 가상의 RFM 분석 진행
+- Python으로 크롤링한 리뷰 데이터를 KNIME으로 전처리
+- 감성 분석, wordcloud로 결과 도식화
+- 리뷰에서 메뉴를 추출해 가상의 RFM 분석 진행
+- 
