@@ -58,8 +58,7 @@ f.close()
 ## Projects
 
 ### 연구학점 I - 금융 데이터 선행연구 분석 (2022.03.09 ~ 2022.05.25)
-
-- [블로깅](https://hr1588.tistory.com/category/주식%20선행연구%20분석)
+- "<a href='https://hr1588.tistory.com/category/주식%20선행연구%20분석'>블로깅</a>"
 - [깃허브](https://github.com/hr1588/Lab_study/tree/main/kospi_project)
 - 개발 언어 : KNIME, Python
 - 상세 내용
@@ -167,7 +166,7 @@ f.close()
   - pgadmin 4 활용
         
 ### 네이버 플레이스 리뷰 분석 (2023.11.28 ~ 2023.11.30)
-- [블로깅](https://hr1588.tistory.com/category/리뷰%20분석)
+- "<a href='https://hr1588.tistory.com/category/리뷰%20분석'>블로깅</a>"
 - 개발 언어 : Python, KNIME, PostgreSQL
 - 사용 데이터 : 톤쇼우, 카와카츠 합정점, 최강금 돈까스 리뷰 
 - 상세 내용
