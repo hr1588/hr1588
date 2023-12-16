@@ -22,6 +22,11 @@
 </p>
 
 <br>
+### Tech
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white"/>
+<img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postgresql-4169E1?style=flat&logo=Postgresql&logoColor=white"/>
 
 ### 📕 Latest Blog Posts   
 
