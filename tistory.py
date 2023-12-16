@@ -59,7 +59,7 @@ f.close()
 
 ### 연구학점 I - 금융 데이터 선행연구 분석 (2022.03.09 ~ 2022.05.25)
 
-- [블로깅](https://hr1588.tistory.com/category/주식 선행연구 분석)
+- [블로깅](https://hr1588.tistory.com/category/주식%20선행연구%20분석)
 - [깃허브](https://github.com/hr1588/Lab_study/tree/main/kospi_project)
 - 개발 언어 : KNIME, Python
 - 상세 내용
@@ -139,7 +139,7 @@ f.close()
 - python 기초, 통계 및 기출문제 정리
 
 ### 30 Days of Pandas (2023.08.17 ~ 2023.08.26)
-- [블로깅](https://hr1588.tistory.com/category/30 Days of Pandas)
+- [블로깅](https://hr1588.tistory.com/category/30%20Days%20of%20Pandas)
 - 개발 언어 : Python, SQL
 - 10일간 LeetCode의 30 Days of Pandas를 python과 sql로 리뷰
 
@@ -167,7 +167,7 @@ f.close()
   - pgadmin 4 활용
         
 ### 네이버 플레이스 리뷰 분석 (2023.11.28 ~ 2023.11.30)
-- [블로깅](https://hr1588.tistory.com/category/리뷰 분석)
+- [블로깅](https://hr1588.tistory.com/category/리뷰%20분석)
 - 개발 언어 : Python, KNIME, PostgreSQL
 - 사용 데이터 : 톤쇼우, 카와카츠 합정점, 최강금 돈까스 리뷰 
 - 상세 내용
