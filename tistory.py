@@ -1,5 +1,4 @@
 import feedparser, datetime
-from urllib.parse import quote
 
 tistory_uri="https://hr1588.tistory.com/" #Your blog address here
 feed = feedparser.parse(tistory_uri+"/rss")
@@ -88,7 +87,6 @@ f.close()
 
 ### 머신러닝 전공수업 - 이미지 미니 프로젝트 (2022.11.24 ~ 2022.12.08)
 - [깃허브](https://github.com/hr1588/Lab_study/blob/main/deep-learning/image_project/dh_ml_ffinal.ipynb)
-- [발표 자료](quote(https://drive.google.com/drive/folders/1ZXzyzT19teBc-4LUT7htOvz0wla9eKnE?usp=drive_link))
 - 개발 언어 : Python
 - 사용 데이터 : AI HUB image data, cifar-10 dataset
 - 이미지의 10가지 class를 분류하는 프로젝트 진행, macro avg : 0.762로 마무리
@@ -119,7 +117,6 @@ f.close()
 ## Study
 
 ### 연구학점 II - 네트워크 분석 (2022.09.07 ~ 2022.11.02)
-- [발표 자료](quote(https://drive.google.com/drive/folders/1oIIFphtni4uXda1EqaP6GzF1xEFph4Kq?usp=drive_link))
 - 개발 언어 : Python
 - 상세 내용
   - 네트워크 분석 - 소셜 미디어에서 신경망까지 도서 리뷰
@@ -136,12 +133,12 @@ f.close()
   - huggingface pre-trained model의 Token type 개수를 확인하는 함수 제작
 
 ### 빅데이터 분석기사 실습(2023.06.17 ~ 2023.06.23)
-- [깃허브] (https://github.com/hr1588/Engineer-Big-Data-Analysis)
+- [깃허브](https://github.com/hr1588/Engineer-Big-Data-Analysis)
 - 개발 언어 : Python
 - python 기초, 통계 및 기출문제 정리
 
 ### 30 Days of Pandas (2023.08.17 ~ 2023.08.26)
-- [블로깅](quote(https://hr1588.tistory.com/category/30%20Days%20of%20Pandas?page=1))
+- [블로깅](https://hr1588.tistory.com/category/30%20Days%20of%20Pandas?page=1)
 - 개발 언어 : Python, SQL
 - 10일간 LeetCode의 30 Days of Pandas를 python과 sql로 리뷰
 
@@ -169,7 +166,7 @@ f.close()
   - pgadmin 4 활용
         
 ### 네이버 플레이스 리뷰 분석 (2023.11.28 ~ 2023.11.30)
-- [블로깅](quote(https://hr1588.tistory.com/category/%EB%A6%AC%EB%B7%B0%20%EB%B6%84%EC%84%9D))
+- [블로깅](https://hr1588.tistory.com/category/%EB%A6%AC%EB%B7%B0%20%EB%B6%84%EC%84%9D)
 - 개발 언어 : Python, KNIME, PostgreSQL
 - 사용 데이터 : 톤쇼우, 카와카츠 합정점, 최강금 돈까스 리뷰 
 - 상세 내용
