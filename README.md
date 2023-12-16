@@ -1,4 +1,4 @@
-## 안녕하세요 :)
+## 안녕하세요 :) 데이터 분석가를 꿈꾸는 이동현입니다 !
 
 ## Interest   
      - python, KNIME를 활용한 Data Anlaysis
