@@ -20,10 +20,12 @@
     <a href="mailto:gaiqclass@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gaiqclass@gmail.com"/></a>
 </p>
 
-## Tech
+## Tech : 한 번 이상 사용해본 기술
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
+<img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postgresql-4169E1?style=flat-square&logo=Postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
 
@@ -79,6 +81,12 @@
 - pos tagging, position embedding 기반 neural-network model 구축 시도
 - 명사와 명사를 결합하여 1차적인 관계 추출, 장학금 60만원 취득
 
+### 월간 데이콘 쇼츠 - 뉴스 기사 레이블 복구 해커톤
+- 발표 자료 : [블로깅](https://hr1588.tistory.com/34), [깃허브](https://github.com/hr1588/pytorch/blob/main/%EB%89%B4%EC%8A%A4%20%EB%A0%88%EC%9D%B4%EB%B8%94%EB%A7%81/news_clustering.ipynb)
+- sentence_transformers 계열 모델 all-mpnet-base-v2 사용
+- LDA, Kmeans와 사전학습 모델을 조합
+- 참가자 425명 중 private 30위로 마무리
+
 ### 2023 산업맞춤형 혁신바우처 사업 교육조교 (2023.05.01 ~ 2023.11.30)
 - 주식광장 지식광장네트워크 소속으로, 국도화학 주식회사에서 디지털 전환(DX) 교육 보조 수행
 - 데이터 분석 플랫폼 KNIME로 15주간 강의 보조 진행
@@ -102,10 +110,16 @@
 - ontonote-v5 data로 NER 실습
 - huggingface pre-trained model의 Token type 개수를 확인하는 함수 제작
 
-### 빅데이터 분석기사 실습(2023.06.17 ~ 2023.06.23)
+### 빅데이터 분석기사 실습 (2023.06.17 ~ 2023.06.23)
 - [깃허브](https://github.com/hr1588/Engineer-Big-Data-Analysis)
 - 개발 언어 : Python
 - python 기초, 통계 및 기출문제 정리
+
+### 연구실 딥러닝 스터디 (2023.06.29 ~ 2023.08.10)
+- [노션](https://www.notion.so/2023-summer-LAB-Study-DB-78b3b8cb4bac43c385618c7f251b090b), [깃허브](https://github.com/hr1588/pytorch)
+- 딥러닝 이해도 제고를 위해, 3학년 학부생과 함께 주차 별 세미나 진행
+- 기본적인 통계 및 머신러닝을 정리하고, pytorch로 딥러닝을 이해
+- 2023 전력사용량 예측 AI 경진대회 데이터로 arima, sarima, LSTM 모델 구현
 
 ### 30 Days of Pandas (2023.08.17 ~ 2023.08.26)
 - <a href='https://hr1588.tistory.com/category/30%20Days%20of%20Pandas'>블로깅</a>
