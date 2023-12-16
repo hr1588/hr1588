@@ -34,7 +34,7 @@ markdown_text = """
 
 ## Certification
 - SQLD (2023.10.06)
-- 빅데이터 분석기사 (2023.07.14)
+- 빅데이터 분석기사 (2023.07.14) 
 - ADsP (2022.09.23)
 - 컴퓨터 활용능력 1급 (2022.03.11)
 
@@ -61,7 +61,7 @@ f.close()
 - 개발 언어 : KNIME, Python
 - 상세 내용
   - "코스피 방향 예측을 위한 하이브리드 머신러닝 모델" 선행연구 분석
-  - 주식 도메인 및 ML 알고리즘 정리
+  - 주식 도메인 및 ML 알고리즘, 시계열 분석 정리
   - KNIME과 Python으로 선행연구 방법론 구현
 
 ### 제1회 KRX 금융 빅데이터 활용 아이디어 경진대회 (2022.06.27 ~ 2022.07.29)
@@ -83,7 +83,13 @@ f.close()
   - huggingface의 emoberta-large 모델 사용
   - 259팀 중 private 17등으로 마무리
 
-### 한국어 경제 지식그래프 구축 (2022.03.02 ~ 2023.06.09)
+### 머신러닝 전공수업 - 이미지 미니 프로젝트
+- [깃허브](https://github.com/hr1588/Lab_study/blob/main/deep-learning/image_project/dh_ml_ffinal.ipynb)
+- 개발 언어 : Python
+- 사용 데이터 : AI HUB image data, cifar-10 dataset
+- 이미지의 10가지 class를 분류하는 프로젝트 진행, macro avg : 0.762로 마무리
+
+### 한국어 경제 지식그래프 구축 (2023.03.02 ~ 2023.06.09)
 - [깃허브](https://github.com/hr1588/Knowledge-Graph)
 - 개발 언어 : Python
 - 상세 내용
@@ -92,7 +98,7 @@ f.close()
   - pos tagging, position embedding 기반 neural-network model 구축 시도
   - 명사와 명사를 결합하여 1차적인 관계 추출, 장학금 60만원 취득
 
-### 2023 산업맞춤형 혁신바우처 사업 교육조교 (2022.05.01 ~ 2023.11.30)
+### 2023 산업맞춤형 혁신바우처 사업 교육조교 (2023.05.01 ~ 2023.11.30)
 - 주식광장 지식광장네트워크 소속으로, 국도화학 주식회사에서 디지털 전환(DX) 교육 보조 수행
 - 상세 내용
   - 데이터 분석 플랫폼 KNIME로 15주간 강의 보조 진행
@@ -118,5 +124,44 @@ f.close()
   - ontonote-v5 data로 NER 실습
   - huggingface pre-trained model의 Token type 개수를 확인하는 함수 제작
 
+### 빅데이터 분석기사 실습(2023.06.17 ~ 2023.06.23)
+- [깃허브] (https://github.com/hr1588/Engineer-Big-Data-Analysis)
+- 개발 언어 : Python
+- python 기초, 통계 및 기출문제 정리
 
+### 30 Days of Pandas (2023.08.17 ~ 2023.08.26)
+- [블로깅](https://hr1588.tistory.com/category/30%20Days%20of%20Pandas?page=1)
+- 개발 언어 : Python, SQL
+- 10일간 LeetCode의 30 Days of Pandas를 python과 sql로 리뷰
 
+### 던전앤파이터 사용자 분석 (2023.09.29 ~ )
+- [블로깅](https://hr1588.tistory.com/category/%EA%B2%8C%EC%9E%84%20%EC%82%AC%EC%9A%A9%EC%9E%90%20%EB%B6%84%EC%84%9D)
+- 개발 언어 : Python
+- 사용 데이터 : 네오플 Open API
+- 상세 내용
+  - 던전앤파이터의 명성, 유저 행태 확인 
+  - 게임 내부 동일한 가치가 있는 재화를 경매장 가격으로 비교 분석
+
+### 오뚜기 기사 분석 (2023.11.12)
+- [블로깅](https://hr1588.tistory.com/46)
+- 개발 언어 : Python
+- 사용 데이터 : 2023년 오뚜기 주식 종가, 네이버 경제 뉴스 기사 
+- 상세 내용
+  - Z-score를 활용해서 종가의 극단값을 정의하고, 주가가 극단값일 때 해당 시점의 기사 내용을 분석 
+  - Bareun 형태소 분석기로 LDA, wordnet 제작
+
+### 오뚜기 기사 분석 (2023.11.13 ~)
+- [블로깅](https://hr1588.tistory.com/category/SQL?page=2)
+- 개발 언어 : PostgreSQL
+- 상세 내용
+  - 데이터 분석을 위한 SQL 레시피 리뷰
+  - pgadmin 4 활용
+        
+### 네이버 플레이스 리뷰 분석 (2023.11.28 ~ 2023.11.30)
+- [블로깅](https://hr1588.tistory.com/category/%EB%A6%AC%EB%B7%B0%20%EB%B6%84%EC%84%9D)
+- 개발 언어 : Python, KNIME, PostgreSQL
+- 사용 데이터 : 톤쇼우, 카와카츠 합정점, 최강금 돈까스 리뷰 
+- 상세 내용
+  - Python으로 크롤링한 리뷰 데이터를 KNIME으로 전처리
+  - 감성 분석, wordcloud로 결과 도식화
+  - 리뷰에서 메뉴를 추출해 가상의 RFM 분석 진행
