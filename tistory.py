@@ -58,7 +58,7 @@ f.close()
 
 ### 연구학점 I - 금융 데이터 선행연구 분석 (2022.03.09 ~ 2022.05.25)
 
-- [블로깅](https://hr1588.tistory.com/category/%EC%A3%BC%EC%8B%9D%20%EC%84%A0%ED%96%89%EC%97%B0%EA%B5%AC%20%EB%B6%84%EC%84%9D)
+- [블로깅](https://hr1588.tistory.com/category/주식 선행연구 분석)
 - [깃허브](https://github.com/hr1588/Lab_study/tree/main/kospi_project)
 - 개발 언어 : KNIME, Python
 - 상세 내용
@@ -113,7 +113,7 @@ f.close()
 - 상세 내용
   - 데이터 분석 플랫폼 KNIME로 15주간 강의 보조 진행
   - 교육 이후 4종의 검증 프로젝트 진행, Python과 KNIME으로 baseline 구축
-  - 국도화학 우수 사례 선정
+  - 국도화학 우수 사례로 선정
 
 ## Study
 
@@ -145,7 +145,7 @@ f.close()
 - 10일간 LeetCode의 30 Days of Pandas를 python과 sql로 리뷰
 
 ### 던전앤파이터 사용자 분석 (2023.09.29 ~ )
-- [블로깅](https://hr1588.tistory.com/category/%EA%B2%8C%EC%9E%84%20%EC%82%AC%EC%9A%A9%EC%9E%90%20%EB%B6%84%EC%84%9D)
+- [블로깅](https://hr1588.tistory.com/category/게임 사용자 분석)
 - 개발 언어 : Python
 - 사용 데이터 : 네오플 Open API
 - 상세 내용
@@ -160,7 +160,7 @@ f.close()
   - Z-score를 활용해서 종가의 극단값을 정의하고, 주가가 극단값일 때 해당 시점의 기사 내용을 분석 
   - Bareun 형태소 분석기로 LDA, wordnet 제작
 
-### 오뚜기 기사 분석 (2023.11.13 ~)
+### PostgreSQL (2023.11.13 ~ )
 - [블로깅](https://hr1588.tistory.com/category/SQL?page=2)
 - 개발 언어 : PostgreSQL
 - 상세 내용
