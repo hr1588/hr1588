@@ -1,10 +1,3 @@
-import feedparser, datetime
-from urllib.parse import quote
-
-tistory_uri="https://hr1588.tistory.com/" #Your blog address here
-feed = feedparser.parse(tistory_uri+"/rss")
-
-markdown_text = """
 ## 안녕하세요 :)
 
 ## Interest   
