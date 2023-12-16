@@ -4,14 +4,14 @@ tistory_uri="https://hr1588.tistory.com/" #Your blog address here
 feed = feedparser.parse(tistory_uri+"/rss")
 
 markdown_text = """
-### 안녕하세요 :)
+## 안녕하세요 :)
 
-### Interest   
-     - python, no-code-ml을 활용한 Data Anlaysis
-     - ML/DL을 활용한 타겟 분석
+## Interest   
+     - python, KNIME를 활용한 Data Anlaysis
+     - ML/DL을 활용한 소비자 분석
      - Natural Language Processing
 
-### github stats  
+## github stats  
 
 <div id="main" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=hr1588&count_private=true&show_icons=true&theme=radical"
@@ -20,17 +20,23 @@ markdown_text = """
         style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>  -->
 </div>
 
-### About Me  
+## About Me  
 <p align="center">
     <a href="https://hr1588.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
     <a href="mailto:gaiqclass@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gaiqclass@gmail.com"/></a>
 </p>
 
-### Tech
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white"/>
-<img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postgresql-4169E1?style=flat&logo=Postgresql&logoColor=white"/>
+## Tech
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postgresql-4169E1?style=flat-square&logo=Postgresql&logoColor=white"/>
+
+## Certification
+- SQLD (2023.10.06)
+- 빅데이터 분석기사 (2023.07.14)
+- ADsP (2022.09.23)
+- 컴퓨터 활용능력 1급 (2022.03.11)
 
 ### 📕 Latest Blog Posts   
 
@@ -45,3 +51,72 @@ for i in feed['entries'][:1]:
 f = open("README.md",mode="w", encoding="utf-8")
 f.write(markdown_text)
 f.close()
+
+## Projects
+
+### 연구학점 I - 금융 데이터 선행연구 분석 (2022.03.09 ~ 2022.05.25)
+
+- [블로깅](https://hr1588.tistory.com/category/%EC%A3%BC%EC%8B%9D%20%EC%84%A0%ED%96%89%EC%97%B0%EA%B5%AC%20%EB%B6%84%EC%84%9D)
+- [깃허브](https://github.com/hr1588/Lab_study/tree/main/kospi_project)
+- 개발 언어 : KNIME, Python
+- 상세 내용
+  - "코스피 방향 예측을 위한 하이브리드 머신러닝 모델" 선행연구 분석
+  - 주식 도메인 및 ML 알고리즘 정리
+  - KNIME과 Python으로 선행연구 방법론 구현
+
+### 제1회 KRX 금융 빅데이터 활용 아이디어 경진대회 (2022.06.27 ~ 2022.07.29)
+- [코드 공유](https://dacon.io/codeshare/5528)
+- [블로깅](https://hr1588.tistory.com/29)
+- 개발 언어 : Python
+- 사용 데이터 : 네이버 금융 뉴스, 2021년 1분기 주식 일별 시세정보
+- 상세 내용
+  - 개인 투자자의 분산 투자를 위한 정보 제공 플랫폼 "크로와상" 기획
+  - 수익률과 샤프지수를 기반으로 한 상관 지표, 기사 내 단어 빈도 분석 기반 점수 지표 제공
+  - 74팀 중 예선 7등으로 마무리
+
+### 월간 데이콘 발화자의 감정인식 AI 경진대회 (2022.11.01 ~ 2022.12.12)
+- [코드 공유](https://dacon.io/competitions/official/236027/codeshare/7278?page=1&dtype=recent)
+- 개발 언어 : Python
+- 사용 데이터 : 영어 발화문
+- 상세 내용
+  - 주어진 대화에서 발화자의 감정을 파악할 수 있는 AI 모델 개발
+  - huggingface의 emoberta-large 모델 사용
+  - 259팀 중 private 17등으로 마무리
+
+### 한국어 경제 지식그래프 구축 (2022.03.02 ~ 2023.06.09)
+- [깃허브](https://github.com/hr1588/Knowledge-Graph)
+- 개발 언어 : Python
+- 상세 내용
+  - 네이버 경제 뉴스 크롤링으로 데이터 추출
+  - 한국어 사전학습 모델 kcbert-base로 Transfer Learning
+  - pos tagging, position embedding 기반 neural-network model 구축 시도
+  - 명사와 명사를 결합하여 1차적인 관계 추출, 장학금 60만원 취득
+
+### 2023 산업맞춤형 혁신바우처 사업 교육조교 (2022.05.01 ~ 2023.11.30)
+- 주식광장 지식광장네트워크 소속으로, 국도화학 주식회사에서 디지털 전환(DX) 교육 보조 수행
+- 상세 내용
+  - 데이터 분석 플랫폼 KNIME로 15주간 강의 보조 진행
+  - 교육 이후 4종의 검증 프로젝트 진행, Python과 KNIME으로 baseline 구축
+  - 국도화학 우수 사례 선정
+
+## Study
+
+### 연구학점 II - 네트워크 분석 (2022.09.07 ~ 2022.11.02)
+- [발표 자료](https://drive.google.com/drive/folders/1oIIFphtni4uXda1EqaP6GzF1xEFph4Kq?usp=drive_link)
+- 개발 언어 : Python
+- 상세 내용
+  - 네트워크 분석 - 소셜 미디어에서 신경망까지 도서 리뷰
+  - 주차 별 세미나를 진행하며 다른 학부연구생과 함께 이론 발표
+  - networkx library로 연습문제 실습
+
+### 연구학점 II - 자연어 처리 (2022.11.03 ~ 2023.02.20)
+- [깃허브](https://github.com/hr1588/Lab_study/tree/main/NLP)
+- 개발 언어 : Python
+- 상세 내용
+  - Do it! Bert와 GPT로 배우는 자연어 처리, 트랜스포머를 활용한 자연어 처리 도서 리뷰
+  - 주차 별 세미나를 진행하며 석사 연구원, 학부 연구생과 함께 진행
+  - ontonote-v5 data로 NER 실습
+  - huggingface pre-trained model의 Token type 개수를 확인하는 함수 제작
+
+
+
