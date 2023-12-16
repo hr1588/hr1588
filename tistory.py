@@ -49,7 +49,7 @@ lst = []
 
 for i in feed['entries'][:1]:
     markdown_text += f"<a href =\"{i['link']}\"> {i['title']} </a> <br>"
-    print(i['link'], i['title'])
+    print(i['link'], i['title']) 
 
 f = open("README.md",mode="w", encoding="utf-8")
 f.write(markdown_text)
@@ -139,7 +139,7 @@ f.close()
 - python 기초, 통계 및 기출문제 정리
 
 ### 30 Days of Pandas (2023.08.17 ~ 2023.08.26)
-- [블로깅](https://hr1588.tistory.com/category/30%20Days%20of%20Pandas)
+- "<a href='https://hr1588.tistory.com/category/30%20Days%20of%20Pandas'>블로깅</a>"
 - 개발 언어 : Python, SQL
 - 10일간 LeetCode의 30 Days of Pandas를 python과 sql로 리뷰
 
