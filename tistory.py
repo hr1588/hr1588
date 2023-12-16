@@ -59,7 +59,7 @@ f.close()
 
 ### 연구학점 I - 금융 데이터 선행연구 분석 (2022.03.09 ~ 2022.05.25)
 - "<a href='https://hr1588.tistory.com/category/주식%20선행연구%20분석'>블로깅</a>"
-- [깃허브](https://github.com/hr1588/Lab_study/tree/main/kospi_project)
+- "<a href='https://github.com/hr1588/Lab_study/tree/main/kospi_project'>깃허브</a>"
 - 개발 언어 : KNIME, Python
 - 상세 내용
   - "코스피 방향 예측을 위한 하이브리드 머신러닝 모델" 선행연구 분석
