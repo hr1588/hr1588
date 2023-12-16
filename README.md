@@ -72,7 +72,7 @@
 - catboost model은 Python 사용
 
 ### 한국어 경제 지식그래프 구축 (2023.03.02 ~ 2023.06.09)
-- [깃허브](https://github.com/hr1588/Knowledge-Graph)
+- [깃허브](https://github.com/hr1588/Knowledge-Graph), [보고서](https://drive.google.com/drive/folders/19XjGzlavPe382YCDNiRt1ATCJHbV9R2u?usp=drive_link)
 - 개발 언어 : Python
 - 네이버 경제 뉴스 크롤링으로 데이터 추출
 - 한국어 사전학습 모델 kcbert-base로 Transfer Learning
@@ -108,7 +108,7 @@
 - python 기초, 통계 및 기출문제 정리
 
 ### 30 Days of Pandas (2023.08.17 ~ 2023.08.26)
-- "<a href='https://hr1588.tistory.com/category/30%20Days%20of%20Pandas'>블로깅</a>"
+- <a href='https://hr1588.tistory.com/category/30%20Days%20of%20Pandas'>블로깅</a>
 - 개발 언어 : Python, SQL
 - 10일간 LeetCode의 30 Days of Pandas를 python과 sql로 리뷰
 
@@ -134,7 +134,7 @@
 - pgadmin 4 활용
   
 ### 네이버 플레이스 리뷰 분석 (2023.11.28 ~ 2023.11.30)
-- "<a href='https://hr1588.tistory.com/category/리뷰%20분석'>블로깅</a>"
+- <a href='https://hr1588.tistory.com/category/리뷰%20분석'>블로깅</a>
 - 개발 언어 : Python, KNIME, PostgreSQL
 - 사용 데이터 : 톤쇼우, 카와카츠 합정점, 최강금 돈까스 리뷰 
 - Python으로 크롤링한 리뷰 데이터를 KNIME으로 전처리
