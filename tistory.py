@@ -33,6 +33,7 @@ markdown_text = """
 <img src="https://img.shields.io/badge/Postgresql-4169E1?style=flat-square&logo=Postgresql&logoColor=white"/>
 
 ## Certification
+- KNIME L1 (2023.11.24)
 - SQLD (2023.10.06)
 - 빅데이터 분석기사 (2023.07.14) 
 - ADsP (2022.09.23)
