@@ -39,7 +39,7 @@
 ## Projects
 
 ### 연구학점 I - 금융 데이터 선행연구 분석 (2022.03.09 ~ 2022.05.25)
-- 발표 자료 : <a href='https://hr1588.tistory.com/category/주식%20선행연구%20분석' target = '_blank'>블로깅</a>, <a href='https://github.com/hr1588/Lab_study/tree/main/kospi_project'>깃허브</a>
+- 발표 자료 : <a href='https://hr1588.tistory.com/category/주식%20선행연구%20분석' target = "_blank">블로깅</a>, <a href='https://github.com/hr1588/Lab_study/tree/main/kospi_project' target = "_blank">깃허브</a>
 - "코스피 방향 예측을 위한 하이브리드 머신러닝 모델" 선행연구 분석
 - 개발 언어 : KNIME, Python
 - 주식 도메인 및 ML 알고리즘, 시계열 분석 정리
