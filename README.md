@@ -55,7 +55,9 @@
 - 74팀 중 예선 7등으로 마무리
 
 ### 월간 데이콘 발화자의 감정인식 AI 경진대회 (2022.11.01 ~ 2022.12.12)
-- 발표 자료 : [코드 공유](https://dacon.io/competitions/official/236027/codeshare/7278?page=1&dtype=recent)
+- 발표 자료 : [코드 공유](https://dacon.io/competitions/official/236027/codeshare/7278?page=1&dtype=recent), [깃허브](
+https://github.com/hr1588/Lab_study/tree/main/dacon/AI%20%EA%B0%90%EC%A0%95%EC%9D%B8%EC%8B%9D
+) 
 - 개발 언어 : Python
 - 사용 데이터 : 영어 발화문
 - 주어진 대화에서 발화자의 감정을 파악할 수 있는 AI 모델 개발
@@ -97,7 +99,7 @@
 ## Study
 
 ### 연구학점 II - 네트워크 분석 (2022.09.07 ~ 2022.11.02)
-- [발표 자료](https://drive.google.com/drive/folders/1oIIFphtni4uXda1EqaP6GzF1xEFph4Kq?usp=drive_link)
+- [발표 자료](https://drive.google.com/drive/folders/1oIIFphtni4uXda1EqaP6GzF1xEFph4Kq?usp=drive_link), [깃허브](https://github.com/hr1588/Lab_study/tree/main/network)
 - 개발 언어 : Python
 - 네트워크 분석 - 소셜 미디어에서 신경망까지 도서 리뷰
 - 주차 별 세미나를 진행하며 다른 학부연구생과 함께 이론 발표
