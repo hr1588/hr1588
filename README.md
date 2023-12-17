@@ -40,7 +40,7 @@
 ## Projects
 
 ### 연구학점 I - 금융 데이터 선행연구 분석 (2022.03.09 ~ 2022.05.25)
-- 발표 자료 : <a href='https://hr1588.tistory.com/category/주식%20선행연구%20분석' target = "_blank">블로깅</a>, <a href='https://github.com/hr1588/Lab_study/tree/main/kospi_project' target = "_blank">깃허브</a>
+- 발표 자료 : <a href='https://hr1588.tistory.com/category/데이터%20분석/주식%20선행연구%20분석'>블로깅</a>, <a href='https://github.com/hr1588/Lab_study/tree/main/kospi_project' target = "_blank">깃허브</a>
 - "코스피 방향 예측을 위한 하이브리드 머신러닝 모델" 선행연구 분석
 - 개발 언어 : KNIME, Python
 - 주식 도메인 및 ML 알고리즘, 시계열 분석 정리
@@ -128,7 +128,7 @@
 - 10일간 LeetCode의 30 Days of Pandas를 python과 sql로 리뷰
 
 ### 던전앤파이터 사용자 분석 (2023.09.29 ~ )
-- <a href='https://hr1588.tistory.com/category/게임 사용자 분석'>블로깅</a>
+- <a href='https://hr1588.tistory.com/category/데이터%20분석/게임%20사용자%20분석'>블로깅</a>
 - 개발 언어 : Python
 - 사용 데이터 : 네오플 Open API
 - 넥슨의 던전앤파이터 유저 행태 확인 
@@ -149,7 +149,7 @@
 - pgadmin 4 활용
   
 ### 네이버 플레이스 리뷰 분석 (2023.11.28 ~ 2023.11.30)
-- <a href='https://hr1588.tistory.com/category/리뷰%20분석'>블로깅</a>
+- <a href='https://hr1588.tistory.com/category/데이터%20분석/리뷰%20분석'>블로깅</a>
 - 개발 언어 : Python, KNIME, PostgreSQL
 - 사용 데이터 : 톤쇼우, 카와카츠 합정점, 최강금 돈까스 리뷰 
 - Python으로 크롤링한 리뷰 데이터를 KNIME으로 전처리
