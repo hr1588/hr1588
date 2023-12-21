@@ -133,11 +133,11 @@ https://github.com/hr1588/Lab_study/tree/main/dacon/AI%20%EA%B0%90%EC%A0%95%EC%9
 - 개발 언어 : Python, SQL
 - 10일간 LeetCode의 30 Days of Pandas를 python과 sql로 리뷰
 
-### 던전앤파이터 사용자 분석 (2023.09.29 ~ )
+### 게임 사용자 분석 (2023.09.29 ~ )
 - <a href='https://hr1588.tistory.com/category/데이터%20분석/게임%20사용자%20분석'>블로깅</a>
 - 개발 언어 : Python
-- 사용 데이터 : 네오플 Open API
-- 넥슨의 던전앤파이터 유저 행태 확인 
+- 사용 데이터 : 넥슨 Open API
+- 넥슨의 던전앤파이터 유저 행태, 메이플스토리 큐브 이력 분석
 - 게임 내부 동일한 가치가 있는 재화를 경매장 가격으로 비교 분석
 
 ### 오뚜기 기사 분석 (2023.11.12)
