@@ -31,6 +31,8 @@
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Transformers-2E64FE?style=flat-square"/>
+<img src="https://img.shields.io/badge/Networkx-81BEF7?style=flat-square"/>
 <img src ="https://img.shields.io/badge/KNIME-f0e82e?style=flat-square"/>
 </div>
 
@@ -137,6 +139,7 @@ https://github.com/hr1588/Lab_study/tree/main/dacon/AI%20%EA%B0%90%EC%A0%95%EC%9
 - <a href='https://hr1588.tistory.com/category/데이터%20분석/게임%20사용자%20분석'>블로깅</a>
 - 개발 언어 : Python
 - 사용 데이터 : 넥슨 Open API
+- 게임 데이터 분석에 필요한 KPI 정리
 - 넥슨의 던전앤파이터 유저 행태, 메이플스토리 큐브 이력 분석
 - 게임 내부 동일한 가치가 있는 재화를 경매장 가격으로 비교 분석
 
