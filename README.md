@@ -1,8 +1,8 @@
 ## 안녕하세요 :) 데이터 분석가를 목표로 도전하는 이동현입니다 !
 
 ## Interest   
-     - python, KNIME를 활용한 Data Anlaysis
-     - ML/DL을 활용한 소비자 분석
+     - python, SQL을 활용한 Data Anlaysis
+     - ML/DL을 활용한 시장 분석
      - Natural Language Processing
 
 ## github stats  
