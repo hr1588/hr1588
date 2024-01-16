@@ -1,4 +1,4 @@
-## 안녕하세요 :) 데이터 분석가를 꿈꾸는 이동현입니다 !
+## 안녕하세요 :) 데이터로 가치를 창조하고 싶은 이동현입니다 !
 
 ## Interest   
      - python, KNIME를 활용한 Data Anlaysis
@@ -150,12 +150,12 @@ https://github.com/hr1588/Lab_study/tree/main/dacon/AI%20%EA%B0%90%EC%A0%95%EC%9
 - Z-score를 활용해서 종가의 극단값을 정의하고, 주가가 극단값일 때 해당 시점의 기사 내용을 분석 
 - Bareun 형태소 분석기로 LDA, wordnet 제작
 
-### PostgreSQL (2023.11.13 ~ )
+### SQL (2023.11.13 ~ )
 - [블로깅](https://hr1588.tistory.com/category/SQL?page=2)
-- 개발 언어 : PostgreSQL
+- 개발 언어 : PostgreSQL, MySQL
 - 상세 내용
-- 데이터 분석을 위한 SQL 레시피 리뷰
-- pgadmin 4 활용
+- 데이터 분석을 위한 SQL 레시피 리뷰(pgadmin 4 활용)
+- HackerRank MySQL Solution
   
 ### 네이버 플레이스 리뷰 분석 (2023.11.28 ~ 2023.11.30)
 - <a href='https://hr1588.tistory.com/category/데이터%20분석/리뷰%20분석'>블로깅</a>
@@ -164,3 +164,4 @@ https://github.com/hr1588/Lab_study/tree/main/dacon/AI%20%EA%B0%90%EC%A0%95%EC%9
 - Python으로 크롤링한 리뷰 데이터를 KNIME으로 전처리
 - 감성 분석, wordcloud로 결과 도식화
 - 리뷰에서 메뉴를 추출해 가상의 RFM 분석 진행
+
