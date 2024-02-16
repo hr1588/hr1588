@@ -146,7 +146,7 @@ https://github.com/hr1588/Lab_study/tree/main/dacon/AI%20%EA%B0%90%EC%A0%95%EC%9
 - 개발 언어 : PostgreSQL, MySQL
 - 상세 내용
 - 데이터 분석을 위한 SQL 레시피 리뷰(pgadmin 4 활용)
-- HackerRank MySQL Solution
+- HackerRank MySQL Solution, Leetcode, 프로그래머스 review
   
 ### 네이버 플레이스 리뷰 분석 (2023.11.28 ~ 2023.11.30)
 - <a href='https://hr1588.tistory.com/category/데이터%20분석/리뷰%20분석'>블로깅</a>
