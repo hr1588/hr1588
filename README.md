@@ -76,7 +76,7 @@ https://github.com/hr1588/Lab_study/tree/main/dacon/AI%20%EA%B0%90%EC%A0%95%EC%9
 ### 한국어 경제 지식그래프 구축 (2023.03.02 ~ 2023.06.20)
 - [깃허브](https://github.com/hr1588/Knowledge-Graph), [보고서](https://drive.google.com/drive/folders/19XjGzlavPe382YCDNiRt1ATCJHbV9R2u?usp=drive_link)
 - 개발 언어 : Python
-- 네이버 경제 뉴스 크롤링으로 데이터 추출
+- 국립 국어원 모두의 말뭉치, 네이버 경제 뉴스 크롤링으로 데이터 추출
 - 한국어 사전학습 모델 kcbert-base로 Transfer Learning
 - pos tagging, position embedding 기반 neural-network model 구축 시도
 - 명사와 명사를 결합하여 1차적인 관계 추출, 장학금 60만원 취득
